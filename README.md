@@ -1,2 +1,3 @@
-# SubPub
- one publishes the message and others subscribe the message
+运行步骤
+1、npm install
+2、npm start
